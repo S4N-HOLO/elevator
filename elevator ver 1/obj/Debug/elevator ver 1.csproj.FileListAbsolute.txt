@@ -1,0 +1,8 @@
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator_ver_1.Form1.resources
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator_ver_1.Properties.Resources.resources
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator ver 1.csproj.GenerateResource.Cache
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\bin\Debug\elevator ver 1.exe.config
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\bin\Debug\elevator ver 1.exe
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\bin\Debug\elevator ver 1.pdb
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator ver 1.exe
+c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator ver 1.pdb
