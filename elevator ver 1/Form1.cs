@@ -18,7 +18,7 @@ namespace elevator_ver_1
         private int level_now = 1;
 
         private int i = 0;
-
+        private int d = 0;
         public Form1()
         {
 
@@ -114,7 +114,7 @@ namespace elevator_ver_1
                     case 1: //направляемся на 1
                         {
                                 timer4.Enabled = true;
-   
+
                             break;
                         }
                     default:
@@ -125,7 +125,7 @@ namespace elevator_ver_1
 
         private void timer1_Tick(object sender, EventArgs e) // понижение этажа на -1 уровень
         {
-            pictureBox1.Location = new System.Drawing.Point(pictureBox1.Location.X, pictureBox1.Location.Y + 1); // поменять на 1
+            panel2.Location = new Point(panel2.Location.X, panel2.Location.Y + 1); // поменять на 1
             i = i + 1;
             if (i == 112) //поменять на ==
             {
@@ -137,21 +137,31 @@ namespace elevator_ver_1
 
         private void timer2_Tick(object sender, EventArgs e) // повышение этажа на +1 уровень
         {
-            pictureBox1.Location = new System.Drawing.Point(pictureBox1.Location.X, pictureBox1.Location.Y - 1); // поменять на 1
+            
+            panel2.Location = new Point(panel2.Location.X, panel2.Location.Y - 1); // поменять на 1
             i = i + 1;
-            if (i == 112) //поменять на ==
+            if (i == 112)
             {
                 i = 0;
-                timer2.Enabled = false;
                 
+                while (d != 50)
+                {
+                    panel1.Location = new Point(panel1.Location.X + 1, panel1.Location.Y);
+                    d = d + 1;
+                }
+
+                d = 0;
+                   
+                timer2.Enabled = false;
             }
+           
         }
 
         private void timer3_Tick(object sender, EventArgs e) // +2 уровня
         {
-            pictureBox1.Location = new System.Drawing.Point(pictureBox1.Location.X, pictureBox1.Location.Y - 1); // поменять на 1
+            panel2.Location = new System.Drawing.Point(panel2.Location.X, panel2.Location.Y - 1); // поменять на 1
             i = i + 1;
-            if (i == 224) //поменять на ==
+            if (i == 224)
             {
                 i = 0;
                 timer3.Enabled = false;
@@ -159,15 +169,16 @@ namespace elevator_ver_1
             }
         }
 
-        private void timer4_Tick(object sender, EventArgs e)
+        private void timer4_Tick(object sender, EventArgs e)  //-2 уровня
         {
-            pictureBox1.Location = new System.Drawing.Point(pictureBox1.Location.X, pictureBox1.Location.Y + 1); // поменять на 1
+            panel2.Location = new System.Drawing.Point(panel2.Location.X, panel2.Location.Y + 1); // поменять на 1
             i = i + 1;
-            if (i == 224) //поменять на ==
+            if (i == 224)
             {
                 i = 0;
                 timer4.Enabled = false;
             }
         }
+
     }
 }
