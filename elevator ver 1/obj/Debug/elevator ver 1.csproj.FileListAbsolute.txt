@@ -6,3 +6,21 @@ c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevato
 c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\bin\Debug\elevator ver 1.pdb
 c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator ver 1.exe
 c:\users\asherbakov\documents\visual studio 2017\Projects\elevator ver 1\elevator ver 1\obj\Debug\elevator ver 1.pdb
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.exe.config
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.exe
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.pdb
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.csprojResolveAssemblyReference.cache
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator_ver_1.Form1.resources
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator_ver_1.Properties.Resources.resources
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.csproj.GenerateResource.Cache
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.exe
+C:\Users\asherbakov\Desktop\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.pdb
+Z:\4 курс\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.exe.config
+Z:\4 курс\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.exe
+Z:\4 курс\elevator-master\elevator ver 1\bin\Debug\elevator ver 1.pdb
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.csprojResolveAssemblyReference.cache
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator_ver_1.Form1.resources
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator_ver_1.Properties.Resources.resources
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.csproj.GenerateResource.Cache
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.exe
+Z:\4 курс\elevator-master\elevator ver 1\obj\Debug\elevator ver 1.pdb
